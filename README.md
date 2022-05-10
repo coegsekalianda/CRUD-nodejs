@@ -1,6 +1,6 @@
 # CRUD-nodejs
 
-1. Install packages
+1. Install packages <br>
   npm install --
 2. activate mysql
   XAMPP
